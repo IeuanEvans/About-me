@@ -1,4 +1,4 @@
-# Journal-Blog
+# Journal
 
 When studying on my Epidemiology Master's degree at the University of Bristol, I discovered podcasts such as, "Towards Data Science" and "Freakonomic Radio" on Spotify. The guests I most enjoyed listening to spoke enthusiastically about applying scientific principles to business problems. This was refreshing because all I knew at the time was academia as my master’s degree was primarily designed to prepare students for research positions. This motivated me to start begin exploring new career paths. 
 
